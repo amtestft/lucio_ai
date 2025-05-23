@@ -5,7 +5,7 @@ import threading
 import uvicorn
 
 # Configurazione
-N8N_CHAT_URL = "https://n8n.fortop.it/webhook/8a7ad845-fac9-45ae-89e1-0f3c6cf29522/chat"
+N8N_CHAT_URL = "https://n8n.fortop.it/webhook/cafb39ad-ff00-4175-85c5-c97bb7914788/chat"
 N8N_APPROVAL_URL = "https://n8n.fortop.it/webhook/approva-mail"
 
 # Sessione utente
